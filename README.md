@@ -59,18 +59,18 @@ Understanding the distinction between these concepts is key to mastering React C
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/ADH0M/react-use-transition
+   cd react-use-transition
    ```
 2. **Install dependencies:**
    ```bash
-   npm install
-   # or yarn install
+   pnpm install
+   
    ```
 3. **Run the development server:**
    ```bash
-   npm run dev
-   # or yarn dev
+   pnpm  dev
+
    ```
 4. Open [http://localhost:5173](http://localhost:5173) in your browser to experience the smooth transitions.
 
@@ -99,6 +99,3 @@ src/
 
 _Built to demonstrate mastery of Interruptible Rendering and Concurrent React patterns._
 
-```
-
-```
